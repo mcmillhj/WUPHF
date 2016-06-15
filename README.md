@@ -1,6 +1,5 @@
 [![Build Status](https://travis-ci.org/mcmillhj/WUPHF.svg?branch=master)](https://travis-ci.org/mcmillhj/WUPHF)
 [![Coverage Status](https://coveralls.io/repos/mcmillhj/WUPHF/badge.svg?branch=master)](https://coveralls.io/r/mcmillhj/WUPHF?branch=master)
-[![Coverage Status](https://coveralls.io/repos/github/mcmillhj/WUPHF/badge.svg?branch=master)](https://coveralls.io/github/mcmillhj/WUPHF?branch=master)
 [![Kwalitee status](http://cpants.cpanauthors.org/dist/WUPHF.png)](http://cpants.charsbar.org/dist/overview/WUPHF)
 
 # NAME
